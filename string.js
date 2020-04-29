@@ -148,3 +148,4 @@
 // console.log('bugun günlerden ' + day)
 
 
+şimhjkfhkfhg
